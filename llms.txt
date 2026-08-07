@@ -1,0 +1,18 @@
+# Alessandro Giuriati
+
+> Personal website, digital CV and project portfolio of Alessandro Giuriati, a BSc Artificial Intelligence and Data Science student interested in software engineering, accessible technology, privacy and cybersecurity.
+
+This website presents Alessandro Giuriati's academic background, technical skills, completed training, professional interests and selected software projects.
+
+## Website
+
+- [Personal website](https://alessandro-giuriati.github.io/): Academic background, skills, credentials, interests and selected projects.
+
+## Projects
+
+- [LocalKeyRemapper](https://github.com/Alessandro-Giuriati/LocalKeyRemapper): A privacy-first and accessibility-first native macOS application for creating and managing local keyboard-remapping profiles.
+
+## Professional profiles
+
+- [GitHub](https://github.com/Alessandro-Giuriati): Public software projects and source-code repositories.
+- [LinkedIn](https://www.linkedin.com/in/alessandro-giuriati): Professional and academic profile.
