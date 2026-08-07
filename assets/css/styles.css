@@ -388,11 +388,15 @@ a {
     color: var(--text-secondary);
 }
 
-.card li + li {
+.card ul:not(.tag-list) li + li {
     margin-top: 0.45rem;
 }
 
 /* Projects */
+
+.project-card .card-period {
+    text-transform: none;
+}
 
 .project-card::after {
     position: absolute;
@@ -427,13 +431,19 @@ a {
 }
 
 .tag-list li {
-    padding: 0.42rem 0.72rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.1rem;
+    padding: 0 0.72rem;
     border: 1px solid var(--border);
     border-radius: 999px;
     background: var(--surface-secondary);
     color: var(--text-secondary);
     font-size: 0.82rem;
     font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
 }
 
 /* Skills */

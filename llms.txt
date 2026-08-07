@@ -10,7 +10,7 @@ This website presents Alessandro Giuriati's academic background, technical skill
 
 ## Projects
 
-- [LocalKeyRemapper](https://github.com/Alessandro-Giuriati/LocalKeyRemapper): A privacy-first and accessibility-first native macOS application for creating and managing local keyboard-remapping profiles.
+- [LocalKeyRemapper](https://localkeyremapper.github.io/): A privacy-first and accessibility-first native macOS application for creating and managing local keyboard-remapping profiles.
 
 ## Professional profiles
 
